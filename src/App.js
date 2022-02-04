@@ -36,6 +36,30 @@ function App() {
           <div>
             <h2 id="projects">Projects:</h2>
           </div>
+          <h3>Project 4</h3>
+          <div>
+            <a href="https://strangersthingsjkim.netlify.app/">
+              <img src="project4.png" className="project4"></img>
+            </a>
+            <p>
+              <li>CSS</li>
+              <li>HTML5</li>
+              <li>React Native</li>
+              <li>JavaScript</li>
+              <li>Restful API</li>
+            </p>
+          </div>
+          <h3>Project 5</h3>
+          <div>
+            <a href="https://arcadejkim.netlify.app/index.html">
+              <img src="project5.png" className="project5"></img>
+            </a>
+            <p>
+              <li>CSS</li>
+              <li>HTML5</li>
+              <li>JavaScript</li>
+            </p>
+          </div>
           <div>
             <h3>Project 1</h3>
             <div>
@@ -55,6 +79,8 @@ function App() {
               <p>
                 <li>CSS</li>
                 <li>HTML5</li>
+                <li>jQuery</li>
+                <li>Website API</li>
               </p>
             </div>
             <h3>Project 3</h3>
@@ -65,26 +91,7 @@ function App() {
               <p>
                 <li>CSS</li>
                 <li>HTML5</li>
-              </p>
-            </div>
-            <h3>Project 4</h3>
-            <div>
-              <a href="https://reactdraw.netlify.app/">
-                <img src="project4.png" className="project4"></img>
-              </a>
-              <p>
-                <li>CSS</li>
-                <li>HTML5</li>
-              </p>
-            </div>
-            <h3>Project 5</h3>
-            <div>
-              <a href="https://arcadejkim.netlify.app/index.html">
-                <img src="project5.png" className="project5"></img>
-              </a>
-              <p>
-                <li>CSS</li>
-                <li>HTML5</li>
+                <li>JavaScript</li>
               </p>
             </div>
           </div>
