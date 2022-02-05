@@ -36,7 +36,7 @@ function App() {
           <div>
             <h2 id="projects">Projects:</h2>
           </div>
-          <h3>Project 4</h3>
+          <h3>Project 1</h3>
           <div>
             <a href="https://strangersthingsjkim.netlify.app/">
               <img src="project4.png" className="project4"></img>
@@ -49,7 +49,7 @@ function App() {
               <li>Restful API</li>
             </p>
           </div>
-          <h3>Project 5</h3>
+          <h3>Project 2</h3>
           <div>
             <a href="https://arcadejkim.netlify.app/index.html">
               <img src="project5.png" className="project5"></img>
@@ -61,7 +61,7 @@ function App() {
             </p>
           </div>
           <div>
-            <h3>Project 1</h3>
+            <h3>Project 3</h3>
             <div>
               <a href="https://ijkim94.github.io/startup-of-the-year/">
                 <img src="project1.png" className="project1"></img>
@@ -71,7 +71,7 @@ function App() {
                 <li>HTML5</li>
               </p>
             </div>
-            <h3>Project 2</h3>
+            <h3>Project 4</h3>
             <div>
               <a href="https://reactacrt.netlify.app/">
                 <img src="project2.png" className="project2"></img>
@@ -83,7 +83,7 @@ function App() {
                 <li>Website API</li>
               </p>
             </div>
-            <h3>Project 3</h3>
+            <h3>Project 5</h3>
             <div>
               <a href="https://reactdraw.netlify.app/">
                 <img src="project3.png" className="project3"></img>
